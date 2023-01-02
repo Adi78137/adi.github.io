@@ -95,6 +95,12 @@ section {
 #skills {
   background-color: #5000ca;
 }
+.pendidikan {
+  color: white;
+}
+#pendidikan {
+  background-color: white;
+}
 .text-white a {
   text-decoration: none;
 }
